@@ -164,6 +164,7 @@ $ cat fun_facts.txt
 - 🌐  Dream: Build something people actually use
 - 🎯  Goal: Become a well-rounded tech professional
 - 💬  Ask me about: HTML/CSS, JavaScript, Java, and my journey into IT!
+- 💡  Good at pragmatic learning (lol)
 ```
 
 ---
