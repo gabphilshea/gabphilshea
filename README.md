@@ -9,7 +9,7 @@
 # Gabriel Philip M. Shea
 ### `gabphilshea` · BS Information Technology · Bicol University
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Cybersecurity+Specialist+%F0%9F%94%90;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+in+the+Making+%F0%9F%8C%90;Software+Engineer+Mindset+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Future+Network+Engineer+%F0%9F%93%A1;Aspiring+Cloud+Security+Specialist+%F0%9F%94%90;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+in+the+Making+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -32,11 +32,12 @@ developer = {
     "year"        : "Incoming 2nd Year",
     "status"      : "Student & Aspiring Tech Professional",
     "interests"   : [
-        "Cybersecurity",
-        "Cloud Computing",
+        "Networking",
+        "Cloud Security",
         "Full Stack Web Development",
         "Software Engineering"
     ],
+    "goal_path"   : "Network Engineer -> Cloud Security Specialist",
     "motto"       : "Build. Break. Learn. Repeat."
 }
 ```
@@ -76,11 +77,25 @@ developer = {
 
 ---
 
-## 🎯 Career Goals & Specializations
+## 🎯 Career Path & Specializations
+
+```
+┌───────────────────────────────────────────────────────────────────┐
+│                      MY CAREER ROADMAP                             │
+│                                                                     │
+│   🌐 NETWORKING          ──────▶      ☁️ CLOUD SECURITY           │
+│   (Stepping Stone)                    (Advanced Specialization)   │
+│                                                                     │
+│   • Network Engineer                  • Cloud Security Analyst    │
+│   • CCNA / Network+                   • AWS / Azure Security      │
+│   • Routing & Switching               • IAM & Access Control      │
+│   • Network Troubleshooting           • Security Architecture     │
+└───────────────────────────────────────────────────────────────────┘
+```
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     POSSIBLE CAREER PATHS                           │
+│                    OTHER AREAS OF INTEREST                          │
 ├─────────────────┬──────────────────┬──────────────┬─────────────────┤
 │  🔐 CYBER       │  ☁️ CLOUD        │  🌐 FULL     │  ⚙️ SOFTWARE   │
 │  SECURITY       │  COMPUTING       │  STACK WEB   │  ENGINEERING   │
@@ -120,8 +135,8 @@ developer = {
  JavaScript                                  Object-Oriented Programming
  Java                                        Intro to HCI
  Networking (online course)                  Platform Technologies
-                                              Cloud Platforms
-                                              Cybersecurity Basics
+                                              Network Engineer path (CCNA)
+                                              Cloud Security Specialization
 ```
 
 ---
@@ -132,7 +147,7 @@ developer = {
 - 🌐 **Online Courses** — JavaScript and Networking
 - 🎓 **Incoming** — 2nd Year BS Information Technology student at Bicol University
 - 💻 **Practicing** — Building small projects to sharpen my skills
-- 🔍 **Exploring** — The worlds of cybersecurity and cloud computing
+- 🔍 **Exploring** — Networking as a stepping stone toward a future in cloud security
 
 ---
 
