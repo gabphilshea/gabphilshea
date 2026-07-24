@@ -29,6 +29,7 @@ developer = {
     "alias"       : "gabphilshea",
     "degree"      : "BS Information Technology",
     "university"  : "Bicol University",
+    "year"        : "Incoming 2nd Year",
     "status"      : "Student & Aspiring Tech Professional",
     "interests"   : [
         "Cybersecurity",
@@ -44,22 +45,34 @@ developer = {
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### Currently Experienced With
-| Language | Level | Focus |
-|----------|-------|-------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) **C** | ⬛⬛⬛⬛⬜ | Systems & Logic |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML** | ⬛⬛⬛⬛⬛ | Structure & Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | ⬛⬛⬛⬛⬜ | Styling & Design |
+## 🛠️ Tech Stack
 
 ### Currently Studying
-| Language | Purpose |
-|----------|---------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | Object-Oriented Programming |
+| Language | Focus |
+|----------|-------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML** | Structure & Markup |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | Styling & Design |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Web Interactivity |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Scripting & Automation |
-| 🔜 **And many more...** | Expanding the arsenal |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | Object-Oriented Programming |
+
+### Online Coursework
+| Course | Platform Focus |
+|--------|-----------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Deepening web dev fundamentals |
+| 🌐 **Networking** | Building toward cloud & security foundations |
+
+---
+
+## 🎓 Incoming Coursework — 2nd Year BSIT @ Bicol University
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📘 Data Structures and Algorithms                          │
+│  📗 Object-Oriented Programming                              │
+│  📙 Intro to Human-Computer Interaction                     │
+│  📕 Platform Technologies                                    │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -100,42 +113,26 @@ developer = {
 ```
 2024 ──────────────────────────────────────────── Future
 
-[DONE] ──────────── [IN PROGRESS] ──────────── [PLANNED]
-   │                      │                        │
-   ▼                      ▼                        ▼
- C Language           Java / Python          React / Node.js
- HTML & CSS           JavaScript             REST APIs
- Basic Logic          OOP Concepts           Git Advanced
- Problem Solving      Algorithms             Cloud Platforms
-                      Data Structures        Cybersec Basics
-                                             Full Stack Apps
-                                             Certifications
+[IN PROGRESS] ─────────────────────────────── [PLANNED]
+       │                                            │
+       ▼                                            ▼
+ HTML / CSS                                  Data Structures & Algorithms
+ JavaScript                                  Object-Oriented Programming
+ Java                                        Intro to HCI
+ Networking (online course)                  Platform Technologies
+                                              Cloud Platforms
+                                              Cybersecurity Basics
 ```
 
 ---
 
 ## 🌱 What I'm Currently Up To
 
-- 📚 **Studying** — Java, JavaScript, and Python fundamentals
+- 📚 **Studying** — HTML, CSS, JavaScript, and Java
+- 🌐 **Online Courses** — JavaScript and Networking
+- 🎓 **Incoming** — 2nd Year BS Information Technology student at Bicol University
 - 💻 **Practicing** — Building small projects to sharpen my skills
 - 🔍 **Exploring** — The worlds of cybersecurity and cloud computing
-- 🎓 **Pursuing** — BS Information Technology at Bicol University
-- 🧠 **Learning** — Data structures, algorithms, and best practices
-
----
-
-## 📈 Skill Progress Overview
-
-| Skill Area | Progress |
-|------------|----------|
-| C Programming | `████████░░` 80% |
-| HTML/CSS | `█████████░` 90% |
-| JavaScript | `████░░░░░░` 40% |
-| Java | `████░░░░░░` 40% |
-| Python | `███░░░░░░░` 30% |
-| Git & Version Control | `█████░░░░░` 50% |
-| Cybersecurity Concepts | `██░░░░░░░░` 20% |
-| Cloud Computing | `█░░░░░░░░░` 10% |
 
 ---
 
@@ -151,7 +148,7 @@ $ cat fun_facts.txt
 - ☁️  Cloud computing feels like magic — and I want to learn the spell
 - 🌐  Dream: Build something people actually use
 - 🎯  Goal: Become a well-rounded tech professional
-- 💬  Ask me about: C, HTML/CSS, and my journey into IT!
+- 💬  Ask me about: HTML/CSS, JavaScript, Java, and my journey into IT!
 ```
 
 ---
