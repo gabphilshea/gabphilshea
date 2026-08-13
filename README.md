@@ -5,8 +5,9 @@
 I'm a Bachelor of Science in Information Technology student interested in
 **software development, web technologies, networking, and cybersecurity**.
 
-Currently, I'm focused on strengthening my programming fundamentals,
-problem-solving skills, and understanding of how software and networks work.
+I'm currently focused on strengthening my programming fundamentals,
+problem-solving skills, and understanding of how software and computer
+networks work.
 
 ---
 
@@ -16,30 +17,34 @@ problem-solving skills, and understanding of how software and networks work.
 - 💻 Currently learning **Java, JavaScript, HTML, CSS, and SQL**
 - 🌐 Interested in **Web Development and Software Engineering**
 - 🌐 Exploring **Computer Networking and Cybersecurity**
-- 🧠 Currently improving my **Data Structures & Algorithms** and **OOP** skills
-- 🛠️ Building small projects to turn what I learn into practical experience
+- 🧠 Improving my **Data Structures & Algorithms** and **Object-Oriented Programming** skills
+- 🛠️ Building academic and personal projects to apply what I learn
 - 🤖 Using AI as a learning and development tool while working toward becoming
-  more independent at solving problems
+  a more independent problem solver
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Web
+### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Currently Exploring
+
 - SQL & Database Management
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -51,31 +56,25 @@ problem-solving skills, and understanding of how software and networks work.
 
 ## 🚀 Projects
 
-> I'm currently building my portfolio through academic and personal projects.
+Here are some of the projects I've worked on while studying Information Technology.
 
-### 🌐 GZL Power Solutions Website
+### 🌐 Web Development
 
-A responsive company website developed using HTML and CSS, with JavaScript
-functionality.
+Projects involving **HTML, CSS, and JavaScript**, focusing on responsive
+design, user interfaces, and interactive web experiences.
 
-**Technologies:** HTML · CSS · JavaScript
+🔗 [View Web Development Projects](https://github.com/gabphilshea?tab=repositories)
 
-🔗 [View Repository](https://github.com/gabphilshea/weather-app-project)
+### 💻 Programming
 
----
+Academic and personal projects developed while learning programming concepts,
+problem-solving, and software development.
 
-### 📚 Student / Academic Projects
-
-A collection of programming exercises and academic projects created while
-learning programming, web development, and information technology.
-
-**Technologies:** C++ · Java · HTML · CSS · JavaScript
-
-🔗 [View Repositories](#)
+🔗 [View Programming Projects](https://github.com/gabphilshea?tab=repositories)
 
 ---
 
-## 📈 My Current Learning Path
+## 📚 Current Learning Focus
 
 ```text
 Programming Fundamentals
@@ -92,13 +91,19 @@ Linux & Systems
         ↓
 Cybersecurity / Cloud
 
+---
+
+My goal is not to learn as many technologies as possible.
+
+Instead, I'm focusing on understanding fundamentals, solving problems,
+building projects, and becoming a more independent developer.
 
 🎯 Current Goals
-Strengthen my programming and problem-solving skills
-Build more practical and complete projects
-Improve my knowledge of databases and networking
-Become more comfortable developing applications independently
-Explore cybersecurity and cloud technologies
+- Strengthen my programming and problem-solving skills
+- Build more practical and complete projects
+- Improve my knowledge of databases and networking
+- Become more comfortable developing applications independently
+- Explore cybersecurity and cloud technologies
 
 📫 Connect With Me
 GitHub: @gabphilshea
