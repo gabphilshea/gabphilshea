@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Shea 👋
+# Hi, I'm Gabriel Philip Shea 👋
 
 ### 2nd Year BSIT Student @ Bicol University
 
