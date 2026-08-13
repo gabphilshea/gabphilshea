@@ -60,7 +60,7 @@ functionality.
 
 **Technologies:** HTML · CSS · JavaScript
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/gabphilshea/weather-app-project)
 
 ---
 
@@ -91,3 +91,18 @@ Computer Networking
 Linux & Systems
         ↓
 Cybersecurity / Cloud
+
+
+🎯 Current Goals
+Strengthen my programming and problem-solving skills
+Build more practical and complete projects
+Improve my knowledge of databases and networking
+Become more comfortable developing applications independently
+Explore cybersecurity and cloud technologies
+
+📫 Connect With Me
+GitHub: @gabphilshea
+
+Learn. Build. Break. Fix. Repeat.
+
+<p align="center"> <i>Still learning, still building, and getting better one project at a time.</i> </p> ```
