@@ -1,196 +1,93 @@
-<div align="center">
+# Hi, I'm Gabriel Shea 👋
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║   WELCOME TO MY PROFILE — LOADING DEVELOPER...            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+### 2nd Year BSIT Student @ Bicol University
 
-# Gabriel Philip M. Shea
-### `gabphilshea` · BS Information Technology · Bicol University
+I'm a Bachelor of Science in Information Technology student interested in
+**software development, web technologies, networking, and cybersecurity**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Future+Network+Engineer+%F0%9F%93%A1;Aspiring+Cloud+Security+Specialist+%F0%9F%94%90;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+in+the+Making+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-gabphilshea-181717?style=for-the-badge&logo=github)](https://github.com/gabphilshea)
-[![University](https://img.shields.io/badge/Bicol%20University-BS%20InfoTech-0057A8?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Philippines-🇵🇭-FCD116?style=for-the-badge)](#)
-
-</div>
+Currently, I'm focused on strengthening my programming fundamentals,
+problem-solving skills, and understanding of how software and networks work.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```python
-developer = {
-    "name"        : "Gabriel Philip M. Shea",
-    "alias"       : "gabphilshea",
-    "degree"      : "BS Information Technology",
-    "university"  : "Bicol University",
-    "year"        : "Incoming 2nd Year",
-    "status"      : "Student & Aspiring Tech Professional",
-    "interests"   : [
-        "Networking",
-        "Cloud Security",
-        "Full Stack Web Development",
-        "Software Engineering"
-    ],
-    "goal_path"   : "Network Engineer -> Cloud Security Specialist",
-    "motto"       : "Build. Break. Learn. Repeat."
-}
-```
-
-> *"Every expert was once a beginner. The difference is they never stopped."*
+- 🎓 2nd Year BSIT Student at **Bicol University**
+- 💻 Currently learning **Java, JavaScript, HTML, CSS, and SQL**
+- 🌐 Interested in **Web Development and Software Engineering**
+- 🌐 Exploring **Computer Networking and Cybersecurity**
+- 🧠 Currently improving my **Data Structures & Algorithms** and **OOP** skills
+- 🛠️ Building small projects to turn what I learn into practical experience
+- 🤖 Using AI as a learning and development tool while working toward becoming
+  more independent at solving problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Currently Studying
-| Language | Focus |
-|----------|-------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML** | Structure & Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | Styling & Design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Web Interactivity |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | Object-Oriented Programming |
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Online Coursework
-| Course | Platform Focus |
-|--------|-----------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Deepening web dev fundamentals |
-| 🌐 **Networking** | Building toward cloud & security foundations |
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🎓 Incoming Coursework — 2nd Year BSIT @ Bicol University
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📘 Data Structures and Algorithms                          │
-│  📗 Object-Oriented Programming                              │
-│  📙 Intro to Human-Computer Interaction                     │
-│  📕 Platform Technologies                                    │
-└─────────────────────────────────────────────────────────────┘
-```
+### Currently Exploring
+- SQL & Database Management
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Networking
+- Linux
+- Cybersecurity Fundamentals
 
 ---
 
-## 🎯 Career Path & Specializations
+## 🚀 Projects
 
-```
-┌───────────────────────────────────────────────────────────────────┐
-│                      MY CAREER ROADMAP                             │
-│                                                                     │
-│   🌐 NETWORKING          ──────▶      ☁️ CLOUD SECURITY           │
-│   (Stepping Stone)                    (Advanced Specialization)   │
-│                                                                     │
-│   • Network Engineer                  • Cloud Security Analyst    │
-│   • CCNA / Network+                   • AWS / Azure Security      │
-│   • Routing & Switching               • IAM & Access Control      │
-│   • Network Troubleshooting           • Security Architecture     │
-└───────────────────────────────────────────────────────────────────┘
-```
+> I'm currently building my portfolio through academic and personal projects.
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    OTHER AREAS OF INTEREST                          │
-├─────────────────┬──────────────────┬──────────────┬─────────────────┤
-│  🔐 CYBER       │  ☁️ CLOUD        │  🌐 FULL     │  ⚙️ SOFTWARE   │
-│  SECURITY       │  COMPUTING       │  STACK WEB   │  ENGINEERING   │
-│                 │                  │  DEV         │                │
-│  • Ethical      │  • AWS / Azure   │  • Frontend  │  • System      │
-│    Hacking      │  • DevOps        │  • Backend   │    Design      │
-│  • Network Sec  │  • IaC           │  • APIs      │  • Clean Code  │
-│  • Pen Testing  │  • Serverless    │  • Databases │  • Algorithms  │
-└─────────────────┴──────────────────┴──────────────┴─────────────────┘
-```
+### 🌐 GZL Power Solutions Website
+
+A responsive company website developed using HTML and CSS, with JavaScript
+functionality.
+
+**Technologies:** HTML · CSS · JavaScript
+
+🔗 [View Repository](#)
 
 ---
 
-## 📊 GitHub Stats
+### 📚 Student / Academic Projects
 
-<div align="center">
+A collection of programming exercises and academic projects created while
+learning programming, web development, and information technology.
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabphilshea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+**Technologies:** C++ · Java · HTML · CSS · JavaScript
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabphilshea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=gabphilshea&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
-
-</div>
+🔗 [View Repositories](#)
 
 ---
 
-## 🗺️ Learning Roadmap
+## 📈 My Current Learning Path
 
-```
-2024 ──────────────────────────────────────────── Future
-
-[IN PROGRESS] ─────────────────────────────── [PLANNED]
-       │                                            │
-       ▼                                            ▼
- HTML / CSS                                  Data Structures & Algorithms
- JavaScript                                  Object-Oriented Programming
- Java                                        Intro to HCI
- Networking (online course)                  Platform Technologies
-                                              Network Engineer path (CCNA)
-                                              Cloud Security Specialization
-```
-
----
-
-## 🌱 What I'm Currently Up To
-
-- 📚 **Studying** — HTML, CSS, JavaScript, and Java
-- 🌐 **Online Courses** — JavaScript and Networking
-- 🎓 **Incoming** — 2nd Year BS Information Technology student at Bicol University
-- 💻 **Practicing** — Building small projects to sharpen my skills
-- 🔍 **Exploring** — Networking as a stepping stone toward a future in cloud security
-
----
-
-## 💡 Fun Facts
-
-```bash
-$ whoami
-> gabriel-philip-shea
-
-$ cat fun_facts.txt
-- 🇵🇭  Proud Bicolano
-- 🔐  Fascinated by how hackers think (to defend better)
-- ☁️  Cloud computing feels like magic — and I want to learn the spell
-- 🌐  Dream: Build something people actually use
-- 🎯  Goal: Become a well-rounded tech professional
-- 💬  Ask me about: HTML/CSS, JavaScript, Java, and my journey into IT!
-- 💡  Good at pragmatic learning (lol)
-```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/gabphilshea)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabshea2007p@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║  Thanks for visiting! Leave a ⭐ if you       ║
-║  liked my profile — it means a lot! 😊       ║
-╚══════════════════════════════════════════════╝
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=gabphilshea&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-*"The best time to start was yesterday. The second best time is now."*
-
-</div>
+```text
+Programming Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+Web Development + Databases
+        ↓
+Computer Networking
+        ↓
+Linux & Systems
+        ↓
+Cybersecurity / Cloud
