@@ -91,7 +91,6 @@ Linux & Systems
         ↓
 Cybersecurity / Cloud
 
----
 
 My goal is not to learn as many technologies as possible.
 
