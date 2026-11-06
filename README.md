@@ -14,8 +14,8 @@ networks work.
 ## 🧑‍💻 About Me
 
 - 🎓 2nd Year BSIT Student at **Bicol University**
-- 💻 Currently learning **Java, JavaScript, HTML, CSS, and SQL**
-- 🌐 Interested in **Web Development and Software Engineering**
+- 💻 Currently learning **Java, JavaScript, HTML, CSS, PHP, and SQL**
+- 🌐 Interested in **Software Engineering, Networking, and AI Engineering**
 - 🌐 Exploring **Computer Networking and Cybersecurity**
 - 🧠 Improving my **Data Structures & Algorithms** and **Object-Oriented Programming** skills
 - 🛠️ Building academic and personal projects to apply what I learn
@@ -36,6 +36,8 @@ networks work.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+
 
 ### Tools
 
